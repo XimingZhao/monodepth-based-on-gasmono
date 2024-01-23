@@ -1,0 +1,8 @@
+ dataset: nyu 
+results:
+ resolutions: 320 x 256
+      med |      std |     mean | 
+ &   6.262  &   0.254  &   6.362  
+  abs_rel |   sq_rel |     rmse | rmse_log |       a1 |       a2 |       a3 | 
+ &   0.113  &   0.083  &   0.459  &   0.153  &   0.871  &   0.973  &   0.992  \\
+ 
